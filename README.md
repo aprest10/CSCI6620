@@ -1,6 +1,6 @@
 This repo is for CSCI 6620 with Dr.Phillips.
 ---
-The repo here consists of three main parts
+The repo consists of three main parts
 
 1. The Dockerfile
 2. The Juypter Notebook
