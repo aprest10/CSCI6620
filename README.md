@@ -14,4 +14,4 @@ This contains the environment in which I did all my developement
 Contains the primary code for this project
 
 ## The Helper package
-This contains functions and abstractions to help keep the notebook mostly clean and tidy
+This contains functions and abstractions to help keep the notebook (mostly) clean and tidy
